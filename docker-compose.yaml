@@ -1,0 +1,8 @@
+services:
+  app:
+    build: .
+    container_name: php_commission_calc
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true

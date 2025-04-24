@@ -1,0 +1,14 @@
+# Don't copy dependencies (they’ll be installed in container)
+/vendor
+/composer.lock
+
+# Ignore local configs
+.env
+
+# Ignore local tool configs
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+*.log
+coverage/
