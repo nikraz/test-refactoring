@@ -9,8 +9,10 @@ Built with **PHP 8.4**, **Guzzle**, **Symfony Console**, **Docker**, and **PHPUn
 
 ### Prerequisites
 - [Docker](https://www.docker.com/) installed
+- PHP version >= 7.4
 - GNU Make (optional, for convenience)
 - Copy .env.example to .env
+- Run `php composer.phar i`
 
 ---
 
