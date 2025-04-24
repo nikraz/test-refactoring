@@ -10,6 +10,7 @@ Built with **PHP 8.4**, **Guzzle**, **Symfony Console**, **Docker**, and **PHPUn
 ### Prerequisites
 - [Docker](https://www.docker.com/) installed
 - GNU Make (optional, for convenience)
+- Copy .env.example to .env
 
 ---
 
@@ -146,19 +147,3 @@ This project is **open for extension, closed for modification**:
 ## License
 
 MIT — use freely, contribute, or fork!
-
----
-
-> Built with using modern PHP by developers who care about architecture and code quality.
-```
-
----
-
-## ✅ Want more?
-
-- I can generate a `Makefile` for all commands
-- Add GitHub Actions for CI
-- Add a Code Coverage badge (with Xdebug)
-- Generate documentation from code with `phpDocumentor`
-
-Just say the word!
