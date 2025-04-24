@@ -1,8 +1,7 @@
 # Commission Calculator CLI App (PHP 8.4 + Docker + PHPUnit)
 
 This CLI application calculates transaction commissions based on card BIN, transaction currency, and origin (EU or non-EU).  
-Built with **PHP 8.4**, **Guzzle**, **Symfony Console**, **Docker**, and **PHPUnit** — following **clean architecture** principles.
-
+Built with **PHP 8.4**, **Guzzle**, **Symfony Console**, **Docker**, and **PHPUnit**
 ---
 
 ## Quick Start
